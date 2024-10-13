@@ -111,4 +111,7 @@ a{
       text-align: center;
       display: block;
     }
+    .ed {
+        font-size: 8px;
+    }
   }
